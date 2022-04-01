@@ -1,10 +1,15 @@
-<h2 align="center">Hi there, I'm Ari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-   
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231CF7E3&size=28&duration=3000&width=1000&lines=Welcome+to+my+GitHub;Full+stack+software+engineer+and+former+tech+lawyer;Based+in+New+York+and+Sydney)](https://git.io/typing-svg) -->
+<h2>Hi there, I'm Ari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-## Glad to see you here!
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&vCenter=true&height=24&lines=Welcome+to+my+Github!;Happy+to+see+you+here!)
 
-I am a full-stack software engineer, currently based out of Boston, MA.
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arishoham@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arishoham)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arishoham)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arishoham/)
+
+<!-- ## Glad to see you here! -->
+
+I am a full-stack software engineer, passionate about building useful web applications & solving complex problems. I spend my free time backpacking with my black lab in the summer and skiing the east all winter.
 
 ## 🛠 Languages and Tools
 
@@ -37,17 +42,14 @@ I am a full-stack software engineer, currently based out of Boston, MA.
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=contribs&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
+[![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
 
-## 📫 Contact me
+<details>
+  <summary>💻 Github Profile Stats</summary>
+  <br/>
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
 
-Please reach out at arishoham@gmail.com
+  [![arishoham's github activity graph](https://activity-graph.herokuapp.com/graph?username=arishoham&theme=react-dark)](https://github.com/arishoham/github-readme-activity-graph)
 
-or find me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arishoham)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arishoham)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arishoham/)
-
-
+</details>
