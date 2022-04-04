@@ -10,7 +10,7 @@
 
 <!-- ## Glad to see you here! -->
 
-# I am a full-stack software engineer, passionate about building useful web applications & solving complex problems. I spend my free time backpacking with my black lab in the summer and skiing the east all winter.
+### I am a full-stack software engineer, passionate about building useful web applications & solving complex problems. I spend my free time backpacking with my black lab in the summer and skiing the east all winter.
 
 ## 🛠 Languages and Tools
 
@@ -46,7 +46,7 @@
 <details>
   <summary>💻 Github Profile Stats</summary>
   <br/>
-  
+
   [![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
