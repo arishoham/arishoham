@@ -10,7 +10,7 @@
 
 <!-- ## Glad to see you here! -->
 
-I am a full-stack software engineer, passionate about building useful web applications & solving complex problems. I spend my free time backpacking with my black lab in the summer and skiing the east all winter.
+# I am a full-stack software engineer, passionate about building useful web applications & solving complex problems. I spend my free time backpacking with my black lab in the summer and skiing the east all winter.
 
 ## 🛠 Languages and Tools
 
@@ -43,11 +43,11 @@ I am a full-stack software engineer, passionate about building useful web applic
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-[![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
-
 <details>
   <summary>💻 Github Profile Stats</summary>
   <br/>
+  
+  [![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
 
