@@ -14,6 +14,8 @@
 
 ## 🛠 Languages and Tools
 
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -42,15 +44,17 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <details>
   <summary>💻 Github Profile Stats</summary>
   <br/>
 
-  [![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
-  
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
+[![arishoham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arishoham&hide=stars,issues&count_private=true&show_icons=true&theme=dark)](https://github.com/arishoham/github-readme-stats)
 
-  [![arishoham's github activity graph](https://activity-graph.herokuapp.com/graph?username=arishoham&theme=react-dark)](https://github.com/arishoham/github-readme-activity-graph)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishoham&layout=compact&theme=dark)](https://github.com/arishoham/github-readme-stats)
+
+[![arishoham's github activity graph](https://activity-graph.herokuapp.com/graph?username=arishoham&theme=react-dark)](https://github.com/arishoham/github-readme-activity-graph)
 
 </details>
